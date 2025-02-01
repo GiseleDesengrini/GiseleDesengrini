@@ -2,7 +2,8 @@
 
 **`Desenvolvedora front-end  `**
 
-Me chamo Gisele desengrini, tenho 27 anos e sou natural do rio grande do sul. minha paixão por tecnologia e criação de experiências interativas me conduz a cada novo desafio como desenvolvedora front-end. minha missão é transformar ideias em projetos inovadores, unindo criatividade com eficiência técnica.
+Sou Gisele Desengrini, tenho 27 anos e sou natural do Rio Grande do Sul. Como desenvolvedora front-end, meu objetivo é transformar ideias em soluções digitais inovadoras.
+Através da combinação de criatividade e eficiência técnica,busco oferecer experiências interativas e de alta qualidade em cada projeto.unindo criatividade com eficiência técnica.
 
 
 
