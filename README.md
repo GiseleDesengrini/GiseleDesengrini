@@ -1,10 +1,12 @@
 # 👩🏻‍💻 Gisele Desengrini
 
-**`Desenvolvedora front-end  `**
+**`Desenvolvedora front-end e Games  `**
 
-Sou Gisele Desengrini, tenho 27 anos e sou natural do Rio Grande do Sul. Como desenvolvedora front-end, meu objetivo é transformar ideias em soluções digitais inovadoras.
-Através da combinação de criatividade e eficiência técnica,busco oferecer experiências interativas e de alta qualidade em cada projeto.unindo criatividade com eficiência técnica.
-
+Sou Gisele Desengrini, tenho 27 anos e sou natural do Rio Grande do Sul. 
+Como desenvolvedora front-end e de games, meu objetivo é transformar ideias em soluções digitais inovadoras. 
+Através da combinação de criatividade e eficiência técnica, busco oferecer experiências interativas e de alta qualidade em cada projeto.
+Tenho experiência em HTML, CSS, JavaScript e Python, com foco em criar interfaces responsivas, dinâmicas e de fácil navegação, sempre buscando otimizar a experiência do usuário. 
+Além disso, desenvolvo games interativos utilizando JavaScript e Python, unindo design e programação para criar experiências envolventes e inovadoras.
 
 
 ---
