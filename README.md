@@ -5,7 +5,7 @@
 Sou Gisele Desengrini, tenho 27 anos e sou natural do Rio Grande do Sul. 
 Como desenvolvedora front-end meu objetivo é transformar ideias em soluções digitais inovadoras. 
 Através da combinação de criatividade e eficiência técnica, busco oferecer experiências interativas e de alta qualidade em cada projeto.
-Tenho experiência em HTML, CSS, JavaScript,React e Tailwind CSS com foco em criar interfaces responsivas, dinâmicas e de fácil navegação, sempre buscando otimizar a experiência do usuário. 
+Tenho experiência em HTML, CSS, JavaScript e React com foco em criar interfaces responsivas, dinâmicas e de fácil navegação, sempre buscando otimizar a experiência do usuário. 
 
 
 
