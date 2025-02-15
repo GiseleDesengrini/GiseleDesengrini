@@ -1,12 +1,12 @@
 # 👩🏻‍💻 Gisele Desengrini
 
-**`Desenvolvedora front-end e Games  `**
+**`Desenvolvedora front-end **
 
 Sou Gisele Desengrini, tenho 27 anos e sou natural do Rio Grande do Sul. 
-Como desenvolvedora front-end e de games, meu objetivo é transformar ideias em soluções digitais inovadoras. 
+Como desenvolvedora front-end meu objetivo é transformar ideias em soluções digitais inovadoras. 
 Através da combinação de criatividade e eficiência técnica, busco oferecer experiências interativas e de alta qualidade em cada projeto.
-Tenho experiência em HTML, CSS, JavaScript e Python, com foco em criar interfaces responsivas, dinâmicas e de fácil navegação, sempre buscando otimizar a experiência do usuário. 
-Além disso, desenvolvo games interativos utilizando JavaScript e Python, unindo design e programação para criar experiências envolventes e inovadoras.
+Tenho experiência em HTML, CSS, JavaScript,React e Tailwind CSS com foco em criar interfaces responsivas, dinâmicas e de fácil navegação, sempre buscando otimizar a experiência do usuário. 
+
 
 
 ---
@@ -40,12 +40,20 @@ Além disso, desenvolvo games interativos utilizando JavaScript e Python, unindo
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="React" 
+    title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  
 />
+<img 
+    class="w-8 h-8 mr-2" 
+    alt="Tailwind CSS" 
+    title="Tailwind CSS" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
+
+
 
 <br/>
 <br/>
