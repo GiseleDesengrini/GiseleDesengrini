@@ -46,12 +46,7 @@ Tenho experiência em HTML, CSS, JavaScript,React e Tailwind CSS com foco em cri
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  
 />
-<img 
-    class="w-8 h-8 mr-2" 
-    alt="Tailwind CSS" 
-    title="Tailwind CSS" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
+
 
 
 
